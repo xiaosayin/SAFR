@@ -12,7 +12,7 @@ The two videos' average QoE metrics are presented as follows (Note that all thes
 **SAFR: {VAMF: 72.4564, Frame Delay: 235 ms, Frame Loss Rate: 0.71%}**  
 **BASE: {VAMF: 69.1295, Frame Delay: 421 ms, Frame Loss Rate: 5.58%}**   
 
-**video source**: Xiph.org Video Test Media [derf’s collection]. [Online] Available: https://media.xiph.org/video/derf/
+**Video source**: Xiph.org Video Test Media [derf’s collection]. [Online] Available: https://media.xiph.org/video/derf/
 
 # Supplementary material
 Due to the limited space in the paper's main body, we have added a supplementary material for our paper, to further discuss the related works, pseudo-code of FRC, explanation of hyper-parameters and QoE comparisons in terms of other metrics (PSNR, SSIM and bandwidth usage).
