@@ -1,4 +1,6 @@
 # SAFR_DEMO
 
 
-<center><embed src="https://github.com/xiaosayin/SAFR_DEMO/blob/main/CLCC.pdf" width="850" height="600"></center>
+<object height="700" width="950" border="0" data="./CLCC.pdf" type="application/pdf">
+    <embed src="./CLCC.pdf" type="application/pdf" width=800 height=800 />
+</object>
