@@ -15,4 +15,4 @@ The average metrics of the two videos mentioned above (excluding the full black 
 video source: Xiph.org Video Test Media [derf’s collection]. [Online] Available: https://media.xiph.org/video/derf/
 
 # Supplementary material
-Besides, due to the limited space in the paper's main body, we have added a \textcolor{blue}{supplementary material} in this revision, to further discuss \textcolor{blue}{ the related works, pseudo-code of FRC, explanation of hyper-parameters and QoE comparisons in terms of other metrics (PSNR, SSIM and bandwidth usage).}
+Besides, due to the limited space in the paper's main body, we have added a supplementary material for our paper, to further discuss the related works, pseudo-code of FRC, explanation of hyper-parameters and QoE comparisons in terms of other metrics (PSNR, SSIM and bandwidth usage).
