@@ -1,4 +1,4 @@
 # SAFR_DEMO
 
 
-![contents](https://github.com/xiaosayin/SAFR_DEMO/blob/main/CLCC.pdf)
+<center><embed src="./clcc.pdf" width="850" height="600"></center>
