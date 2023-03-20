@@ -8,7 +8,7 @@ For better visualizing the effect of frame dropping and presenting the QoE supur
 
 Due to the upload size limitation of youtube, the demo videos of SAFR and BASE are further compressed after being put together. So please note that the demo videos’ visual quality is unequal to the actual visual quality on the receiver side. However, the uncompressed raw videos are uploaded to the Google driver as well (https://drive.google.com/file/d/1LnnHO9DBllGqnHzd6Gu7aBxEm2wK2Yx0/view?usp=share_link), please check the uncompressed version for better viewing experience.
 
-The average metrics for the two videos mentioned above (excluding the full black frame) are presented as follows:  
+The average metrics of the two videos mentioned above (excluding the full black frame) are presented as follows:  
 **SAFR: {VAMF: 72.4564, Frame Delay: 235 ms, Frame Loss Rate: 0.71%}**  
 **BASE: {VAMF: 69.1295, Frame Delay: 421 ms, Frame Loss Rate: 5.58%}**
 
