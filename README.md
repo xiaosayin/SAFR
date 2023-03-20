@@ -1,4 +1,6 @@
-# Demo of "SAFR: A Real-Time Communication System with Adaptive Frame Rate "
+# Demo of SAFR(A Real-Time Communication System with Adaptive Frame Rate)
+
+[![Demo of SAFR](https://res.cloudinary.com/marcomontalbano/image/upload/v1679299276/video_to_markdown/images/youtube--XNW-uDKIOg8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=XNW-uDKIOg8 "Demo of SAFR")
 
 To intuitively compare the transmission performance of SAFR and BASE, we make a demo to demonstrate the videos viewed on the receiver side of SAFR and BASE (above: SAFR, below: BASE). Since the SAFR system introduces a VFI module on the receiver side, the illustrated video (above) is derived after frame interpolation process in SAFR system. The demo experiment is conducted on a network trace with severe bandwidth flunctuations ([250K, 1M]bps). Watermarks are further added to the bottom-left corner of each frame, to clearly present the frame index and corresponding frame delay.
 
