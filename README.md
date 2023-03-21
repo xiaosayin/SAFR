@@ -1,5 +1,5 @@
 # SAFR: A Real-Time Communication System with Adaptive Frame Rate
-This repository will present supplementary materials for our paper and video demonstrations of our results, providing a more comprehensive understanding of our research.
+This repository presents not only the manuscript's supplementary materials, but also a testing video demo, to offer a comprehensive view of our work.
 
 ## Supplementary material
 Due to the limited space in the paper's main body, we have added a supplementary material for our paper, to further discuss the related works, pseudo-code of FRC, explanation of hyper-parameters and QoE comparisons in terms of other metrics (PSNR, SSIM and bandwidth usage).
