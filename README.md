@@ -22,10 +22,10 @@ The two videos' average QoE metrics are presented as follows (Note that all thes
 
 The following are two versions of the normal playback videos with the all-black frames removed, one from the SAFR system and the other from the baseline system.
 
-### SAFR test video without black missing frames
+### SAFR test video without inserted black frames
 [![System of Adaptive Frame rate(SAFR) test video without black missing frames](https://res.cloudinary.com/marcomontalbano/image/upload/v1679370271/video_to_markdown/images/youtube--hM2YMJ3FXRg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=hM2YMJ3FXRg&t=11s "System of Adaptive Frame rate(SAFR) test video without black missing frames")
 
-### BASE test video without black missing frames
+### BASE test video without inserted black frames
 [![BASE test video without black missing frames](https://res.cloudinary.com/marcomontalbano/image/upload/v1679370353/video_to_markdown/images/youtube--HrCV2r2Tcbw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=HrCV2r2Tcbw "BASE test video without black missing frames")
 
 
