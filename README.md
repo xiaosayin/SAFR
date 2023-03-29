@@ -2,7 +2,7 @@
 This repository presents not only the manuscript's supplementary materials, but also a testing video demo, to offer a comprehensive view of our work.
 
 ## Supplementary material
-Due to the limited space in the paper's main body, we have added a supplementary material for our paper, to further discuss the related works, pseudo-code of FRC, explanation of hyper-parameters and QoE comparisons in terms of other metrics (PSNR, SSIM and bandwidth usage).
+Due to the limited space in the paper's main body, we have added a supplementary material for our paper, to further discuss the related works, pseudo-code of FRC, explanation of hyper-parameters and QoE comparisons in terms of other metrics (PSNR, SSIM and bandwidth usage). https://github.com/xiaosayin/SAFR_DEMO/blob/main/Final_supplementary_materal.pdf
 
 ## Demo of SAFR
 
